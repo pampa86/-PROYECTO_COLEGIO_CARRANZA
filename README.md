@@ -36,4 +36,8 @@ Desarrollar una base de datos , que permita el control eficiente de registros, f
 - 5 Materias: con atributos:`Id_Curricula`, `Nombre_Materia`
 
 - 6 Profesores Describe información personal-legal  del profesor registrado y de la materia en la que se encontrará asignado con atributos:`Id_Profesor`,`email`,`Nombre`,`Apellido`,`Edad`,`Direccion_Residencia`,`Id_Curricula`,`profesor`
+- ## Diagrama
+
+
+![g2AclHY9cp](https://github.com/pampa86/-PROYECTO_COLEGIO_CARRANZA/assets/174401261/c6144e41-b2b6-4321-bc8e-be10ec8132e8)
 
